@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="http://[change soon lol]/feed.xml" rel="self" type="application/rss+xml"/>
+    <title>"Orpheus Show"</title>
+    <description>I know this is crazy, but this podcast isn't the orpheus show.</description>
+    <copyright>Copyright 2019 Orph Show</copyright>
+    <language>en</language>
+    <pubDate>Sat, 18 Feb 2023 08:07:45 CST</pubDate>
+    <lastBuildDate>Sat, 18 Feb 2023 08:07:45 CST</lastBuildDate>
+    <image>
+      <link>http://adminjs-stable.netlify.app</link>
+      <title>"Orph Show"</title>
+      <url>https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fedit.org%2Fimg%2Fblog%2Flin-podcast-cover-micro-circle-colors.jpg&f=1&nofb=1&ipt=e2033cb8efb7f76b38dfdad33b98580df90a3e38c19060b9909b63a01c86c7f0&ipo=images</url>
+    </image>
+    <link>http://adminjs-stable.netlify.app</link>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>This is where you will put the full description of your podcast--who creates this podcast and what it's about.</itunes:summary>
+    <itunes:author>Orpheus</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fedit.org%2Fimg%2Fblog%2Flin-podcast-cover-micro-circle-colors.jpg&f=1&nofb=1&ipt=e2033cb8efb7f76b38dfdad33b98580df90a3e38c19060b9909b63a01c86c7f0&ipo=images"/>
+    <itunes:owner>
+      <itunes:name>Orpheus</itunes:name>
+      <itunes:email>email@address.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Technology"/>
+
+    <item>
+      <guid isPermaLink="false">bigbuckbunny</guid>
+      <title>Big Buck Bunny</title>
+      <link>http://adminjs-stable.netlify.app</link>
+      <description>This is where you will put the description of this episode. It is important to remember that this should only be plain, unformatted text.</description>
+      <pubDate>Sat, 18 Feb 2023 08:07:45 CST</pubDate>
+      <author>Bucky</author>
+      <content:encoded><![CDATA[<p>This is where you will put the description of this episode. Unlike the text in the <code>"description"<code> tage above, this can be <i>formatted<i> with HTML.</p>]]></content:encoded>
+      <enclosure length="4772176" type="audio/mpeg" url="https://ia904502.us.archive.org/2/items/BigBuckBunny1280x720Stereo/big_buck_bunny_720_stereo_64kb.mp3"/>
+      <itunes:title>Big Buck Bunny</itunes:title>
+      <itunes:author>Bucky</itunes:author>
+      <itunes:duration>597</itunes:duration>
+    </item>
+  </channel>
+</rss>
