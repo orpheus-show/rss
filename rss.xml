@@ -21,7 +21,7 @@
     <itunes:summary>This is where you will put the full description of your podcast--who creates this podcast and what it's about.</itunes:summary>
     <itunes:author>Orpheus</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fedit.org%2Fimg%2Fblog%2Flin-podcast-cover-micro-circle-colors.jpg&f=1&nofb=1&ipt=e2033cb8efb7f76b38dfdad33b98580df90a3e38c19060b9909b63a01c86c7f0&ipo=images"/>
+    <itunes:image href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fedit.org%2Fimg%2Fblog%2Flin-podcast-cover-micro-circle-colors.jpg"/>
     <itunes:owner>
       <itunes:name>Orpheus</itunes:name>
       <itunes:email>email@address.com</itunes:email>
