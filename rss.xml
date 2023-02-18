@@ -4,7 +4,7 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <atom:link href="http://[change soon lol]/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://orpheus-show.github.io/rss/rss.xml" rel="self" type="application/rss+xml"/>
     <title>"Orpheus Show"</title>
     <description>I know this is crazy, but this podcast isn't the orpheus show.</description>
     <copyright>Copyright 2019 Orph Show</copyright>
